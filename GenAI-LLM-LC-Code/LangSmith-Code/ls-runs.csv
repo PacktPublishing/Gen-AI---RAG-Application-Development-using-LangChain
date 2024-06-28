@@ -1,0 +1,11 @@
+run_id,run_name,run_type,inputs,outputs,feedbacks,tags
+1749aa3c-4971-4a04-96e1-68da825f8ac8,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+8649b00a-6096-4596-8685-af286aad3a34,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+aa1d1b28-8d9c-410f-a650-c90f08ffdc6d,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+a4f22ba6-07c9-4791-a902-43990fcbda4a,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+e225a956-2589-45f9-a951-de0c7ac55ecd,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+5fdcd84a-1076-42e5-bfe6-b41a6cbfb7cc,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+bd03e02c-45be-4fa6-8d42-71251c4121da,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+df741987-d8ce-47eb-91c1-dec0d8548b34,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
+42a46104-db80-48d1-adf8-a2649f4a6ff7,OpenAI Call Decorator 1,llm,{},{'output': None},"{'correctness': {'n': 1, 'avg': 1.0, 'show_feedback_arrow': False}}",['simplechain']
+83905784-cbb8-4c66-81be-73a5b6765288,OpenAI Call Decorator 1,llm,{},{'output': None},,['simplechain']
